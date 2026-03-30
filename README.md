@@ -9,19 +9,21 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Antônio Cardoso Andrade Simões
+- Matricula: 853577
+- Proposta de projeto escolhida: Um site relacionado aos estádios de futebol
+- Breve descrição sobre seu projeto: O intuito do site é que o usuário conheça um pouco mais sobre os estádios do Brasil, pesquisando pelas regiões e pelos times da Séria A, B, C e D de cada uma das regiões do país. Ao clicar no time o usuário verá as principais características e curiosidades do estádio que o clube manda seus jogos.
 
 
 ## Print do(s) wireframe(s) criado
 > Sugestão, use o Excalidraw para isso. Utilize esse [template básico](https://excalidraw.com/#json=LU-8hwcQEwzk11FwO8Opo,qPU9K6cNUEzlXzwOuKMIlQ) para você começar. 
 
 <<  COLOQUE A IMAGEM AQUI >>
-
+![Esboço da página](<Nome do site.jpg>)
 
 
 ## Print da home-page criada
 
 <<  COLOQUE A IMAGEM AQUI >>
+![Página criada](<Pagina criada parte1.jpg>)
+![Página criada](<Pagina criada parte2.jpg>)
